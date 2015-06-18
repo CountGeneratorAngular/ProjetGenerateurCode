@@ -1,8 +1,12 @@
 test git ubuntu
 test Git ubuntu bbbbaaaasssssssssssAAAAA
 test2
+<<<<<<< HEAD
 test3 PC Ubuntu
 
+=======
+test3 PC XP   
+>>>>>>> bcd7047900ab4b29799523ea6d8bc6a9757ed3da
 
 pppppppppp--modif--ertyjuilom
 
